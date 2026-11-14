@@ -2,6 +2,12 @@
 
 Recallify is an active-recall study assistant that transforms your notes or a topic into interactive flashcards and multiple-choice quizzes. It helps learners practise retrieval, check their understanding, revisit mistakes, and track their study activity.
 
+## 🚀 Live Demo
+
+**Try Recallify here:** [https://recallify-5ku0.onrender.com/](https://recallify-5ku0.onrender.com/)
+
+Explore AI-powered flashcards, interactive quizzes, mistake review, and learning progress tracking.
+
 The application combines a React frontend with an Express backend. The backend sends generation requests to the Groq API, while the browser stores study sessions and progress locally.
 
 ## ✨ Features
